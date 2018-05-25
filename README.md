@@ -16,7 +16,7 @@ To assess the algorithms, four types of channel SNR variations have been conside
 # Source Publication
 Please cite the following paper in your publications, if you have used any content of this site, in your work:
 
-Vasco Sequeira, Maria Paula Queluz, António Rodrigues, José Sanguino, Pedro Grifo, "Data Rate Change Algorithms  for Efficient HF Communications",  Int. Conf. on Military Communications and Information Systems,  ICMCIS 2018, Warsaw, Poland, 22-23 May 2018
+Vasco Sequeira, Maria Paula Queluz, António Rodrigues, José Sanguino, Pedro Grifo, "Data Rate Change Algorithms  for Efficient HF Communications",  International Conference on Military Communications and Information Systems,  ICMCIS 2018, Warsaw, Poland, 22-23 May 2018
 
 # References
 [1] S. Trinder and A. Gillespie, “Optimisation of the STANAG 5066 ARQ Protocol to Support High Data Rate HF Communication,” in Proceedings of IEEE Military Communications Conference (MILCOM) 2001, Washington, DC, October 2001.
